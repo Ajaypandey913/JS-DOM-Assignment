@@ -1,0 +1,16 @@
+
+.parent .title{
+    display: inline-block;
+    width: auto;
+    margin: auto;
+    font-size: 16px;
+   
+}
+.parent{
+    display: flex;
+    align-items: center;
+}
+.product-Card{
+    min-width: 40%;
+    margin: 30px 6px;
+}
